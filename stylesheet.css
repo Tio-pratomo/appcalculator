@@ -56,6 +56,6 @@ button:hover {
 /* Responsive smartphone */
 @media (max-width: 670px) {
 	.calculator {
-		width: 95%;
+		width: 92%;
 	}
 }
