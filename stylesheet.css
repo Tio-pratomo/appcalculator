@@ -53,6 +53,10 @@ button:hover {
 	background-color: darkorange;
 }
 
+button:active {
+	background-color: lightgreen;	
+}
+
 /* Responsive smartphone */
 @media (max-width: 670px) {
 	.calculator {
